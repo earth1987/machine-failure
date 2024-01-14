@@ -97,6 +97,6 @@ The goal was to maximise recall whilst ensuring precision is at least $0.5$. The
 
 The below classification report and confusion matrix shows the test set performance of the random forest model after retraining with the entire training set. The recall and precision are $0.56$ and $0.55$ respectively.
 
-<img src="figures/classification_report.png" align="center" width="300" />
+<img src="notebooks/figures/classification_report.png" align="center" width="300" />
 
-<img src="figures/confusion_matrix.png" align="center" width="300" />
+<img src="notebooks/figures/confusion_matrix.png" align="center" width="300" />
